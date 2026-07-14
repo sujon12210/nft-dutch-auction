@@ -1,0 +1,13 @@
+{
+  "name": "nft-dutch-auction",
+  "version": "1.0.0",
+  "description": "Linear descending pricing structure Dutch auction NFT allocation engine",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
